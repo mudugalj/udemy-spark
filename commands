@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial Commit"
+git remote add origin https://github.com/mudugalj/udemy-spark.git
+git pull
+git checkout jayyu
+
