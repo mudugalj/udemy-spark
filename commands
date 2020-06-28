@@ -1,7 +1,8 @@
-git init
-git add .
-git commit -m "Initial Commit"
-git remote add origin https://github.com/mudugalj/udemy-spark.git
-git pull
-git checkout jayyu
-push -u origin jayyu 
+git init  (initiate repository local)
+git add . (git add all files)
+git commit -m "Initial Commit"  (got commit)
+git remote add origin https://github.com/mudugalj/udemy-spark.git (pointing remote branch to local directory)
+git pull (pull request)
+git checkout jayyu (checkout developer branch)
+push -u origin jayyu (push files to developer branch)
+git branch (to show current branch)
